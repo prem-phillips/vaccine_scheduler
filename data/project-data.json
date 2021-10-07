@@ -1,0 +1,61 @@
+{
+    "modernaVaccineInventoryCount": 2730,
+    "modernaVaccineAdministeredCount": 270,
+    "personList": [
+        {
+            "birthDay": 1,
+            "birthMonth": 2,
+            "appointments": [
+                {
+                    "appointmentYear": 2021,
+                    "message": "Pfizer vaccination 1",
+                    "appointmentMonth": 4,
+                    "appointmentDay": 3
+                },
+                {
+                    "appointmentYear": 2021,
+                    "message": "Pfizer vaccination 2",
+                    "appointmentMonth": 5,
+                    "appointmentDay": 8
+                }
+            ],
+            "birthYear": 2000,
+            "name": "Prem"
+        },
+        {
+            "birthDay": 3,
+            "birthMonth": 4,
+            "appointments": [
+                {
+                    "appointmentYear": 2021,
+                    "message": "Moderna vaccination 1",
+                    "appointmentMonth": 4,
+                    "appointmentDay": 10
+                },
+                {
+                    "appointmentYear": 2021,
+                    "message": "Moderna vaccination 2",
+                    "appointmentMonth": 5,
+                    "appointmentDay": 15
+                }
+            ],
+            "birthYear": 1990,
+            "name": "Felix"
+        },
+        {
+            "birthDay": 20,
+            "birthMonth": 11,
+            "appointments": [{
+                "appointmentYear": 2021,
+                "message": "Pfizer vaccination 1",
+                "appointmentMonth": 4,
+                "appointmentDay": 18
+            }],
+            "birthYear": 1995,
+            "name": "Bob"
+        }
+    ],
+    "pfizerVaccineAdministeredCount": 30,
+    "pfizerVaccineInventoryCount": 4970,
+    "maxVaccineInventory": 10000
+}

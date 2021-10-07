@@ -1,0 +1,27 @@
+{
+  "modernaVaccineInventoryCount": 580,
+  "modernaVaccineAdministeredCount": 20,
+  "personList": [{
+    "birthDay": 1,
+    "birthMonth": 2,
+    "appointments": [
+      {
+        "appointmentYear": 2021,
+        "message": "first-Pfizer-vaccine",
+        "appointmentMonth": 3,
+        "appointmentDay": 10
+      },
+      {
+        "appointmentYear": 2021,
+        "message": "second-Pfizer-vaccine",
+        "appointmentMonth": 3,
+        "appointmentDay": 20
+      }
+    ],
+    "birthYear": 3,
+    "name": "Prem"
+  }],
+  "pfizerVaccineAdministeredCount": 10,
+  "pfizerVaccineInventoryCount": 490,
+  "maxVaccineInventory": 5000
+}

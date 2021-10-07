@@ -1,0 +1,14 @@
+{
+    "modernaVaccineInventoryCount": 200,
+    "modernaVaccineAdministeredCount": 20,
+    "personList": [{
+        "birthDay": 1,
+        "birthMonth": 2,
+        "appointments": [],
+        "birthYear": 3,
+        "name": "Prem"
+    }],
+    "pfizerVaccineAdministeredCount": 10,
+    "pfizerVaccineInventoryCount": 100,
+    "maxVaccineInventory": 6000
+}
